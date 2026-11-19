@@ -1,0 +1,6 @@
+{
+  "name": "فَصيح — المدقق اللغوي العربي",
+  "description": "مدقق لغوي عربي خبير لتصحيح الأخطاء الإملائية والنحوية وعلامات الترقيم مع توضيح القاعدة اللغوية لكل تصحيح.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
